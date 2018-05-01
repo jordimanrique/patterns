@@ -1,14 +1,14 @@
-#PATTERNS PROJECT
+##PATTERNS PROJECT
 
 This is simple project used to practice and learn some of the main design patterns.
 
 The basis are extracted from the book [Head First Design Patterns](https://www.amazon.es/Head-First-Design-Patterns-Freeman/dp/0596007124).
 
-#SET UP
+##SET UP
 
     composer install
     
-#CODING AND TESTING
+##CODING AND TESTING
 
 As there are many patterns, it should be a directory for each pattern. This way, you can find every thing you want easily.
 
