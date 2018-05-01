@@ -1,0 +1,3 @@
+#SET UP
+
+    composer install
